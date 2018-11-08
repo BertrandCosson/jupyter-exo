@@ -2,9 +2,8 @@
 
 Click the button bellow to access live demo:
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/omics-school/jupyter-demo-r/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/omics-school/jupyter-exo/master)
 
-And the Jupyter Lab version:
+And with the Jupyter Lab version:
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/omics-school/jupyter-demo-r/master?urlpath=lab)
-
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/omics-school/jupyter-exo/master?urlpath=lab)
