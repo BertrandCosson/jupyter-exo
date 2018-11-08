@@ -1,0 +1,7 @@
+name: jupyter-env
+channels:
+    - conda-forge
+    - r
+dependencies:
+    - jupyterlab
+    - r-essentials
